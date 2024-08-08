@@ -1,2 +1,1 @@
-# Diffiml
-The implement of Diffiml
+# The implement of Diffiml
